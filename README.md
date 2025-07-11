@@ -15,6 +15,12 @@ ReconCreep mimics basic information gathering techniques used during early stage
 python3 reconcreep.py <target-ip>
 ```
 ## Command
+```
 python3 reconcreep.py 10.10.80.241
+```
 
+## Requirements 
+```
+pip install requests python-whois dnspython
 
+```
